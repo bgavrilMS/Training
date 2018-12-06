@@ -12,10 +12,6 @@
 
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\NetStandard\NetStandardShared.csproj" />
-  </ItemGroup>
-
   <!-- <ItemGroup>
     <ProjectReference Include="..\NetStandard\NetStandardShared.csproj" />
   </ItemGroup> -->
